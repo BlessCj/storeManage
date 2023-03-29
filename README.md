@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 跨域解决方案
+跨域：通信双方协议、域名、端口号不同
